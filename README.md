@@ -1,8 +1,6 @@
 # Personal Portfolio & Skill Gap Tracker
 
-**Live app:** _add your Render URL here once deployed_
-
-![screenshot placeholder](docs/screenshot.png)
+**Live app:** https://portfolio-tracker-oq07.onrender.com/
 
 ## The problem
 
